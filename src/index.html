@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/dist/output.css" rel="stylesheet">
+    <title>Marvelize</title>
+</head>
+
+<body id="backtop" class="bg-[#F3EDC8] m-0 font-sans">
+
+    <nav class="bg-[#7D0A0A] w-full max-h-fit text-[#F3EDC8] p-4 z-10 top-0 sticky">
+        <a href="https://www.marvel.com/"><img src="/img/marvel_logo.png" alt="Marvel Logo" class="inline h-12"></a>
+        <button class="float-end" onclick="menubtn()">
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                stroke="currentColor" class="w-12 h-12">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+            </svg>
+        </button>
+        <ul id="ulmenu" class="flex flex-col pt-4 pb-2 text-xl" style="display: none;">
+            <li class="hover:underline pb-2"><a href="#about">About</a></li>
+            <li class="pt-2"><input type="text" id="srcbar" placeholder="Cerca..."
+                    class="bg-transparent placeholder-inherit"></li>
+        </ul>
+    </nav>
+
+    <div id="marveldex" class="w-[90%] lg:w-[75%] m-auto flex flex-wrap p-4"></div>
+
+    <div id="about" class="w-[75%] mx-auto my-5 p-3 bg-[#EAD196] rounded-2xl drop-shadow-xl">
+        <h1 class="text-3xl text-center p-3 text-[#7D0A0A]">ABOUT</h1>
+        <p class="p-3">Il presente sito web è un progetto didattico dedicato alla passione per il mondo Marvel
+            dell'amore della mia vita: Linda Ianniello.
+        </p>
+        <p class="p-3">La realizzazione del presente progetto è a cura di Serafico, a seguito di studi da autodidatta.
+            Sono state utilizzate conoscenze di HTML, CSS, JavaScript, JSon e TailwindCSS.
+        </p>
+        <p class="p-3">Le immagini utilizzate non sono di mia proprietà ma sono utilizzate a puro scopo didattico.</p>
+        <p class="p-3">Suggerimenti, correzioni e in generale idee sono ben accette per continuare a migliorare il sito
+            e permettermi di esercitarmi ulteriormente.</p>
+    </div>
+
+    <footer class="bg-[#7D0A0A] mx-auto my-5 p-5 text-sm text-center text-[#EAD196]">
+        <i class="mx-16">Powered by Serafico®</i>
+        <a href="#backtop"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
+                stroke="currentColor" class="w-7 h-7 inline-block">
+                <path stroke-linecap="round" stroke-linejoin="round"
+                    d="m15 11.25-3-3m0 0-3 3m3-3v7.5M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z" />
+            </svg></a>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

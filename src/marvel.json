@@ -1,0 +1,233 @@
+[
+    {
+        "id": 1,
+        "name": "Iron Man",
+        "year": "2008",
+        "director": "Jon Favreau",
+        "rating": "3,68"
+    },
+    {
+        "id": 2,
+        "name": "The Incredible Hulk",
+        "year": "2008",
+        "director": "Louis Leterrier",
+        "rating": "2,43"
+    },
+    {
+        "id": 3,
+        "name": "Iron Man 2",
+        "year": "2010",
+        "director": "Jon Favreau",
+        "rating": "2,84"
+    },
+    {
+        "id": 4,
+        "name": "Thor",
+        "year": "2011",
+        "director": "Kenneth Branagh",
+        "rating": "2,77"
+    },
+    {
+        "id": 5,
+        "name": "Captain America: The First Avenger",
+        "year": "2011",
+        "director": "Joe Johnston",
+        "rating": "3,25"
+    },
+    {
+        "id": 6,
+        "name": "The Avengers",
+        "year": "2012",
+        "director": "Joss Whedon",
+        "rating": "3,63"
+    },
+    {
+        "id": 7,
+        "name": "Iron Man 3",
+        "year": "2013",
+        "director": "Shane Black",
+        "rating": "3,00"
+    },
+    {
+        "id": 8,
+        "name": "Thor: The Dark World",
+        "year": "2013",
+        "director": "Alan Taylor",
+        "rating": "2,22"
+    },
+    {
+        "id": 9,
+        "name": "Captain America: The Winter Soldier",
+        "year": "2014",
+        "director": "Anthony Russo, Joe Russo",
+        "rating": "3,72"
+    },
+    {
+        "id": 10,
+        "name": "Guardians of the Galaxy",
+        "year": "2014",
+        "director": "James Gunn",
+        "rating": "3,77"
+    },
+    {
+        "id": 11,
+        "name": "Avengers: Age of Ultron",
+        "year": "2015",
+        "director": "Joss Whedon",
+        "rating": "3,07"
+    },
+    {
+        "id": 12,
+        "name": "Ant-Man",
+        "year": "2015",
+        "director": "Peyton Reed",
+        "rating": "3,24"
+    },
+    {
+        "id": 13,
+        "name": "Captain America: Civil War",
+        "year": "2016",
+        "director": "Anthony Russo, Joe Russo",
+        "rating": "3,56"
+    },
+    {
+        "id": 14,
+        "name": "Doctor Strange",
+        "year": "2016",
+        "director": "Scott Derrickson",
+        "rating": "3,43"
+    },
+    {
+        "id": 15,
+        "name": "Guardians of the Galaxy Vol. 2",
+        "year": "2017",
+        "director": "James Gunn",
+        "rating": "3,5"
+    },
+    {
+        "id": 16,
+        "name": "Spider-Man: Homecoming",
+        "year": "2017",
+        "director": "Jon Watts",
+        "rating": "3,47"
+    },
+    {
+        "id": 17,
+        "name": "Thor: Ragnarok",
+        "year": "2017",
+        "director": "Taika Waititi",
+        "rating": "3,75"
+    },
+    {
+        "id": 18,
+        "name": "Black Panther",
+        "year": "2018",
+        "director": "Ryan Coogler",
+        "rating": "3,64"
+    },
+    {
+        "id": 19,
+        "name": "Avengers: Infinity War",
+        "year": "2018",
+        "director": "Anthony Russo, Joe Russo",
+        "rating": "3,95"
+    },
+    {
+        "id": 20,
+        "name": "Ant-Man and the Wasp",
+        "year": "2018",
+        "director": "Peyton Reed",
+        "rating": "2,93"
+    },
+    {
+        "id": 21,
+        "name": "Captain Marvel",
+        "year": "2019",
+        "director": "Ryan Fleck, Anna Boden",
+        "rating": "2,73"
+    },
+    {
+        "id": 22,
+        "name": "Avengers: Endgame",
+        "year": "2019",
+        "director": "Anthony Russo, Joe Russo",
+        "rating": "3,85"
+    },
+    {
+        "id": 23,
+        "name": "Spider-Man: Far from Home",
+        "year": "2019",
+        "director": "Jon Watts",
+        "rating": "3,37"
+    },
+    {
+        "id": 24,
+        "name": "Black Widow",
+        "year": "2021",
+        "director": "Cate Shortland",
+        "rating": "2,95"
+    },
+    {
+        "id": 25,
+        "name": "Shang-Chi and the Legend of the Ten Rings",
+        "year": "2021",
+        "director": "Destin Daniel Cretton",
+        "rating": "3,48"
+    },
+    {
+        "id": 26,
+        "name": "Eternals",
+        "year": "2021",
+        "director": "Chloé Zhao",
+        "rating": "2,77"
+    },
+    {
+        "id": 27,
+        "name": "Spider-Man: No Way Home",
+        "year": "2021",
+        "director": "Jon Watts",
+        "rating": "3,86"
+    },
+    {
+        "id": 28,
+        "name": "Doctor Strange in the Multiverse of Madness",
+        "year": "2022",
+        "director": "Sam Raimi",
+        "rating": "2,97"
+    },
+    {
+        "id": 29,
+        "name": "Thor: Love and Thunder",
+        "year": "2022",
+        "director": "Taika Waititi",
+        "rating": "2,53"
+    },
+    {
+        "id": 30,
+        "name": "Black Panther: Wakanda Forever",
+        "year": "2022",
+        "director": "Ryan Coogler",
+        "rating": "3,38"
+    },
+    {
+        "id": 31,
+        "name": "Ant-Man and the Wasp: Quantumania",
+        "year": "2023",
+        "director": "Peyton Reed",
+        "rating": "2,31"
+    },
+    {
+        "id": 32,
+        "name": "Guardians of the Galaxy Vol. 3",
+        "year": "2023",
+        "director": "James Gunn",
+        "rating": "3,98"
+    },
+    {
+        "id": 33,
+        "name": "The Marvels",
+        "year": "2023",
+        "director": "Nia DaCosta",
+        "rating": "2,85"
+    }
+]
